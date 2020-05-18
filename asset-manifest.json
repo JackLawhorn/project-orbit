@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/project-orbit/static/css/main.0f40e42a.chunk.css",
-    "main.js": "/project-orbit/static/js/main.a260a574.chunk.js",
-    "main.js.map": "/project-orbit/static/js/main.a260a574.chunk.js.map",
+    "main.css": "/project-orbit/static/css/main.3df09614.chunk.css",
+    "main.js": "/project-orbit/static/js/main.a3b6742f.chunk.js",
+    "main.js.map": "/project-orbit/static/js/main.a3b6742f.chunk.js.map",
     "runtime-main.js": "/project-orbit/static/js/runtime-main.8614255e.js",
     "runtime-main.js.map": "/project-orbit/static/js/runtime-main.8614255e.js.map",
     "static/js/2.d3a1f397.chunk.js": "/project-orbit/static/js/2.d3a1f397.chunk.js",
     "static/js/2.d3a1f397.chunk.js.map": "/project-orbit/static/js/2.d3a1f397.chunk.js.map",
     "index.html": "/project-orbit/index.html",
-    "precache-manifest.a5e30a68b84f5960464fbb64b836a959.js": "/project-orbit/precache-manifest.a5e30a68b84f5960464fbb64b836a959.js",
+    "precache-manifest.c97313e411b381d0d26527d7c1faa67a.js": "/project-orbit/precache-manifest.c97313e411b381d0d26527d7c1faa67a.js",
     "service-worker.js": "/project-orbit/service-worker.js",
-    "static/css/main.0f40e42a.chunk.css.map": "/project-orbit/static/css/main.0f40e42a.chunk.css.map",
+    "static/css/main.3df09614.chunk.css.map": "/project-orbit/static/css/main.3df09614.chunk.css.map",
     "static/js/2.d3a1f397.chunk.js.LICENSE.txt": "/project-orbit/static/js/2.d3a1f397.chunk.js.LICENSE.txt",
     "static/media/main.css": "/project-orbit/static/media/BackIssuesBB_reg.14db3a27.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.8614255e.js",
     "static/js/2.d3a1f397.chunk.js",
-    "static/css/main.0f40e42a.chunk.css",
-    "static/js/main.a260a574.chunk.js"
+    "static/css/main.3df09614.chunk.css",
+    "static/js/main.a3b6742f.chunk.js"
   ]
 }
