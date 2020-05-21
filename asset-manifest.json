@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/project-orbit/static/css/main.89ba17ea.chunk.css",
-    "main.js": "/project-orbit/static/js/main.3896ff43.chunk.js",
-    "main.js.map": "/project-orbit/static/js/main.3896ff43.chunk.js.map",
+    "main.css": "/project-orbit/static/css/main.03380043.chunk.css",
+    "main.js": "/project-orbit/static/js/main.fdcc2b6f.chunk.js",
+    "main.js.map": "/project-orbit/static/js/main.fdcc2b6f.chunk.js.map",
     "runtime-main.js": "/project-orbit/static/js/runtime-main.8614255e.js",
     "runtime-main.js.map": "/project-orbit/static/js/runtime-main.8614255e.js.map",
     "static/js/2.9766a175.chunk.js": "/project-orbit/static/js/2.9766a175.chunk.js",
     "static/js/2.9766a175.chunk.js.map": "/project-orbit/static/js/2.9766a175.chunk.js.map",
     "index.html": "/project-orbit/index.html",
-    "precache-manifest.0dd55975f457f7e2501a597bad49872e.js": "/project-orbit/precache-manifest.0dd55975f457f7e2501a597bad49872e.js",
+    "precache-manifest.b1d657d6d4cf54172549a5a34aa68d1d.js": "/project-orbit/precache-manifest.b1d657d6d4cf54172549a5a34aa68d1d.js",
     "service-worker.js": "/project-orbit/service-worker.js",
-    "static/css/main.89ba17ea.chunk.css.map": "/project-orbit/static/css/main.89ba17ea.chunk.css.map",
+    "static/css/main.03380043.chunk.css.map": "/project-orbit/static/css/main.03380043.chunk.css.map",
     "static/js/2.9766a175.chunk.js.LICENSE.txt": "/project-orbit/static/js/2.9766a175.chunk.js.LICENSE.txt",
     "static/media/main.css": "/project-orbit/static/media/BackIssuesBB_reg.14db3a27.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.8614255e.js",
     "static/js/2.9766a175.chunk.js",
-    "static/css/main.89ba17ea.chunk.css",
-    "static/js/main.3896ff43.chunk.js"
+    "static/css/main.03380043.chunk.css",
+    "static/js/main.fdcc2b6f.chunk.js"
   ]
 }
